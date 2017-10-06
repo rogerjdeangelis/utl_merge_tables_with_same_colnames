@@ -1,5 +1,6 @@
 # utl_merge_tables_with_same_colnames
-Allow users to add a suffix for column names in one of the tables
+SAS automatically, programtically rename colmns to avoid collisions. Allow users to add a suffix for column names in one of the tables.
+Join or merger tables and SAS datasets.
 
     ```  Merge two SAS tables with the same variable names  ```
     ```    ```
